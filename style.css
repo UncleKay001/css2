@@ -1,0 +1,44 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+#logo {
+  width: 400px;
+}
+
+#welcome {
+  text-align: center;
+  background-color: #fcbf00;
+  width: 60%;
+  margin: auto;
+  padding: 40px;
+  border-radius: 30px;
+}
+
+#welcome h1 {
+  font-size: 60px;
+  color: #004996;
+}
+
+.reduceimage {
+  width: 200px;
+}
+
+#goalkeeper {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#defenders {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#defenderslist {
+  display: flex;
+  justify-content: center;
+}
+
+#defenderslist figure {
+  padding: 0 50px;
+}
